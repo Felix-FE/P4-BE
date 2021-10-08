@@ -1,0 +1,152 @@
+[
+  {
+      "model": "launches.launch",
+      "pk": "0",
+      "fields": {
+          "launch_name": "Hapith I | Test Flight",
+          "date_time": "window start: 2021-09-12T20:30:00Z window end: 2021-09-13T08:30:00Z  ",
+          "current_stage": "",
+          "launch_status": "status: To Be Confirmed reason: Awaiting official confirmation - current date is known with some certainty.",
+          "launch_provider": "TiSPACE",
+          "rocket_config": "Hapith I",
+          "payload_name": "Test Flight",
+          "payload_mission": "The first Hapith I launch will be testing TiSPACE's hybrid rocket engine technology in preparation for the future Hapith V launch vehicle. Targeting 250 km altitude, the test launch campaign will also support of the development of the Whalers Way Orbital Launch Complex in South Australia, operated by Southern Launch.",
+          "location": "135.630035 -34.937822"
+      }
+  },
+  {
+      "model": "launches.launch",
+      "pk": "1",
+      "fields": {
+          "launch_name": "Long March 2C/YZ-1S | Yaogan-32-02",
+          "date_time": "window start: 2021-09-13T07:36:00Z window end: 2021-09-13T08:04:00Z  ",
+          "current_stage": "",
+          "launch_status": "status: Go for Launch reason: Current T-0 confirmed by official or reliable sources.",
+          "launch_provider": "China Aerospace Science and Technology Corporation",
+          "rocket_config": "Long March 2C/YZ-1S",
+          "payload_name": "Yaogan-32-02",
+          "payload_mission": "Yaogan is a series of Chinese reconnaissance satellites.",
+          "location": "100.298333 40.960556"
+      }
+  },
+  {
+      "model": "launches.launch",
+      "pk": "2",
+      "fields": {
+          "launch_name": "Falcon 9 Block 5 | Starlink Group 2-1",
+          "date_time": "window start: 2021-09-14T03:55:00Z window end: 2021-09-14T03:55:00Z  ",
+          "current_stage": "",
+          "launch_status": "status: Go for Launch reason: Current T-0 confirmed by official or reliable sources.",
+          "launch_provider": "SpaceX",
+          "rocket_config": "Falcon 9",
+          "payload_name": "Starlink Group 2-1",
+          "payload_mission": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+          "location": "-120.611 34.632"
+      }
+  },
+  {
+      "model": "launches.launch",
+      "pk": "3",
+      "fields": {
+          "launch_name": "Soyuz 2.1b/Fregat-M | OneWeb 10",
+          "date_time": "window start: 2021-09-14T18:07:00Z window end: 2021-09-14T18:07:00Z  ",
+          "current_stage": "",
+          "launch_status": "status: To Be Confirmed reason: Awaiting official confirmation - current date is known with some certainty.",
+          "launch_provider": "Arianespace",
+          "rocket_config": "Soyuz 2.1b/Fregat-M",
+          "payload_name": "OneWeb 10",
+          "payload_mission": "A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
+          "location": "63.564003 45.996034"
+      }
+  },
+  {
+      "model": "launches.launch",
+      "pk": "4",
+      "fields": {
+          "launch_name": "Falcon 9 Block 5 | Inspiration4",
+          "date_time": "window start: 2021-09-16T00:01:00Z window end: 2021-09-16T00:24:00Z  ",
+          "current_stage": "",
+          "launch_status": "status: Go for Launch reason: Current T-0 confirmed by official or reliable sources.",
+          "launch_provider": "SpaceX",
+          "rocket_config": "Falcon 9",
+          "payload_name": "Inspiration4",
+          "payload_mission": "Inspiration4 is the world\u2019s first all-commercial astronaut mission to orbit. Jared Isaacman, founder and CEO of Shift4 Payments, is donating the three seats alongside him aboard Dragon to individuals from the general public. The Inspiration4 crew will receive commercial astronaut training by SpaceX on the Falcon 9 launch vehicle and Dragon spacecraft, orbital mechanics, operating in microgravity, zero gravity, and other forms of stress testing. They will go through emergency preparedness training, spacesuit and spacecraft ingress and egress exercises, as well as partial and full mission simulations.\r\nThe Crew Dragon spacecraft will remain in a 540 km high orbit for three days before reentering Earth's atmosphere for a soft water landing off the coast of Florida.",
+          "location": "-80.60428186 28.60822681"
+      }
+  },
+  {
+      "model": "launches.launch",
+      "pk": "5",
+      "fields": {
+          "launch_name": "Long March 7  | Tianzhou-3",
+          "date_time": "window start: 2021-09-20T00:00:00Z window end: 2021-09-20T00:00:00Z  ",
+          "current_stage": "",
+          "launch_status": "status: To Be Determined reason: Current date is a 'No Earlier Than' estimation based on unreliable or interpreted sources.",
+          "launch_provider": "China Aerospace Science and Technology Corporation",
+          "rocket_config": "Long March 7",
+          "payload_name": "Tianzhou-3",
+          "payload_mission": "Second cargo delivery mission to the Chinese large modular space station.",
+          "location": "110.951057 19.614354"
+      }
+  },
+  {
+      "model": "launches.launch",
+      "pk": "6",
+      "fields": {
+          "launch_name": "Atlas V 401 | Landsat 9",
+          "date_time": "window start: 2021-09-23T18:11:00Z window end: 2021-09-23T18:11:00Z  ",
+          "current_stage": "",
+          "launch_status": "status: To Be Confirmed reason: Awaiting official confirmation - current date is known with some certainty.",
+          "launch_provider": "United Launch Alliance",
+          "rocket_config": "Atlas V 401",
+          "payload_name": "Landsat 9",
+          "payload_mission": "Landsat 9 is a partnership between NASA and the U.S. Geological Survey to continue the Landsat program\u00e2\u20ac\u2122s critical role in monitoring, understanding and managing the land resources needed to sustain human life. Landsat 9, like Landsat 8, will have a higher imaging capacity than past Landsats, allowing more valuable data to be added to the Landsat\u00e2\u20ac\u2122s global land archive. Satellite will operaite in sun-synchronous orbit at an altitude of 705 km and has a mission lifetime of 5 years.",
+          "location": "-120.5895 34.64"
+      }
+  },
+  {
+      "model": "launches.launch",
+      "pk": "7",
+      "fields": {
+          "launch_name": "Kuaizhou-1A | Jilin-1-02D",
+          "date_time": "window start: 2021-09-30T00:00:00Z window end: 2021-09-30T00:00:00Z  ",
+          "current_stage": "",
+          "launch_status": "status: To Be Determined reason: Current date is a 'No Earlier Than' estimation based on unreliable or interpreted sources.",
+          "launch_provider": "China Aerospace Science and Industry Corporation",
+          "rocket_config": "Kuaizhou",
+          "payload_name": "Jilin-1-02D",
+          "payload_mission": "Jilin-1 is a series of Chinese commercial remote sensing satellites.",
+          "location": "100.291 40.958"
+      }
+  },
+  {
+      "model": "launches.launch",
+      "pk": "8",
+      "fields": {
+          "launch_name": "Electron | Love At First Insight",
+          "date_time": "window start: 2021-09-30T00:00:00Z window end: 2021-09-30T00:00:00Z  ",
+          "current_stage": "",
+          "launch_status": "status: To Be Determined reason: Current date is a 'No Earlier Than' estimation based on unreliable or interpreted sources.",
+          "launch_provider": "Rocket Lab Ltd",
+          "rocket_config": "Electron",
+          "payload_name": "Love At First Insight",
+          "payload_mission": "Payload consists of two BlackSky Gen-2 high-resolution multi-spectral Earth observation satellites.",
+          "location": "177.864469 -39.262833"
+      }
+  },
+  {
+      "model": "launches.launch",
+      "pk": "9",
+      "fields": {
+          "launch_name": "PSLV  | EOS-4 (RISAT-1A)",
+          "date_time": "window start: 2021-09-30T00:00:00Z window end: 2021-09-30T00:00:00Z  ",
+          "current_stage": "",
+          "launch_status": "status: To Be Determined reason: Current date is a 'No Earlier Than' estimation based on unreliable or interpreted sources.",
+          "launch_provider": "Indian Space Research Organization",
+          "rocket_config": "PSLV",
+          "payload_name": "unknown",
+          "payload_mission": "unknown",
+          "location": "80.235 13.733"
+      }
+  }
+]
